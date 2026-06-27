@@ -1,4 +1,4 @@
-package com.rk.lld;
+package com.rk.lld.connect4;
 
 import java.util.Optional;
 
